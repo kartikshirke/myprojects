@@ -1,7 +1,7 @@
 # My Projects along with Github Repo and Preview Links:
 ### Links:
 
- 1) Weather App Using React
+ 1) Weather App Using React:
     Preview Link: https://react-weather-search-app.netlify.com/  
     Github Link: https://github.com/kartikshirke/react-weather-app
  
