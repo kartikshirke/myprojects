@@ -1,8 +1,8 @@
 # My Projects with Github Source Code and Preview Links:
 
  ### 1) Weather App Using React:
-    i) Preview Link: https://react-weather-search-app.netlify.com/
-    ii) Github Link: https://github.com/kartikshirke/react-weather-app
+   #### i) Preview Link: https://react-weather-search-app.netlify.com/
+    #### ii) Github Link: https://github.com/kartikshirke/react-weather-app
     
  ### 2) Recipe Search App Using React: 
     i) Preview Link: https://recipe-search-react-app.netlify.com/ 
