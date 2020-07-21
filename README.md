@@ -1,4 +1,4 @@
-# My Projects along with Github Repo and Preview Links:
+# My Projects with Github Source Code and Preview Links:
 
  ### 1) Weather App Using React:
     i) Preview Link: https://react-weather-search-app.netlify.com/
