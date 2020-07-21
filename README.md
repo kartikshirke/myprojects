@@ -2,7 +2,7 @@
 ### Links:
 
  #### 1) Weather App Using React:
-    i) Preview Link: [https://react-weather-search-app.netlify.com/]  
+    i) Preview Link: [https://react-weather-search-app.netlify.com/](https://react-weather-search-app.netlify.com/)  
     ii) Github Link: https://github.com/kartikshirke/react-weather-app
  
  #### 2) Recipe Search App Using React: 
