@@ -1,4 +1,4 @@
-# My Projects along witithub and Preview Links:
+# My Projects along with Github Repo and Preview Links:
 ### Links:
 
  1) Weather App Using React
