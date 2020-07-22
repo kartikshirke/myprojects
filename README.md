@@ -1,6 +1,6 @@
-# My Portfolio and My Projects with Github Source Code and Preview Links:
+# My Portfolio Link: https://kartikshirke.github.io/portfolio/
 
- ### Portfolio Link: https://kartikshirke.github.io/portfolio/
+ # My Projects with Github Source Code and Preview Links:
 
  ### 1) Weather App Using React:
    #### i) Preview Link: https://react-weather-search-app.netlify.com/
