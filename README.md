@@ -1,4 +1,4 @@
-# My Portlio and My Projects with Github Source Code and Preview Links:
+# My Portfolio and My Projects with Github Source Code and Preview Links:
 
  ### Portfolio Link: https://kartikshirke.github.io/portfolio/
 
